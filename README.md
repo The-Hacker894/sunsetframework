@@ -2,11 +2,11 @@
 Sunset Discord Bot framework is a small NodeJS application that you can download and build off of for your own personal use **as long as you give me credit** ;)  
 
 ## Prerequisites
-[x] Make sure you have [NodeJS](http://nodejs.org/) installed
-[x] Have the NPM packages installed *(all of the packages Sunset uses are in the `package.json`)*
-[x] Get a process manager like [PM2](https://github.com/Unitech/pm2)
-[x] Get a programming text editor like [VSCode](https://code.visualstudio.com/)
-[x] Put your bot token in the `data.json` 
+- Make sure you have [NodeJS](http://nodejs.org/) installed
+- Have the NPM packages installed *(all of the packages Sunset uses are in the `package.json`)*
+- Get a process manager like [PM2](https://github.com/Unitech/pm2)
+- Get a programming text editor like [VSCode](https://code.visualstudio.com/)
+- Put your bot token in the `data.json` 
 
 ## How to Start
 1. Download the master zip and unzip the file
