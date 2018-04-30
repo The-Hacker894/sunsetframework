@@ -1,5 +1,8 @@
 # sunsetframework
 Sunset Discord Bot framework is a small NodeJS application that you can download and build off of for your own personal use **as long as you give me credit** ;)  
+  
+  
+**There is a security vulnerability in this framework. After downloading please use the command `npm install hoek` to update the package. The version that was used to make this is flawed**
 
 ## Prerequisites
 - Make sure you have [NodeJS](http://nodejs.org/) installed
